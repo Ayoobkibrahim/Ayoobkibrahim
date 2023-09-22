@@ -2,7 +2,7 @@
 <h3 align="center">A passionate flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoobkibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="ayoobkibrahim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoobkibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="ayoobkibrahim" /> </p> 
 
 
 - 🌱 I’m currently learning **Flutter,Dart**
