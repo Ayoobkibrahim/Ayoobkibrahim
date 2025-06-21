@@ -8,8 +8,7 @@
 
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> **About Me:**
-- 👨🏻‍💻 I'm currently working as a SDE - Flutter at chargeMOD.
-
+- 👨🏻‍💻 Student at Brototype
 - 💬 Ask me about **Flutter**
 
 
