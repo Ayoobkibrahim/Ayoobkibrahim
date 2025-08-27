@@ -1,35 +1,52 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=5f1885F&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+AYOOB+KI🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=5F1885&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+AYOOB+KI🚀;" />
 </h1>
- <!--- <h3 align="center"></h3> --->
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/DbXSzkKLzy96e3uukf/giphy.gif">
+<!-- Right side image -->
+<div align="center">
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Popper">
+</div>
 
+---
 
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> **About Me:**
-- 👨🏻‍💻 Student at Brototype
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="20"> **About Me:**
+- 👨🏻‍💻 Student at Brototype  
 - 💬 Ask me about **Flutter**
 
-
+---
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoobkibrahim&theme=radical"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoobkibrahim&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
- <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> **Languages & Tools:**
+---
+
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> **Languages & Tools:**
 
 <p align="center"> 
-<a href="https://dart.dev/overview" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://docs.flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/docs" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://dart.dev/overview" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
+  </a>
+  <a href="https://docs.flutter.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/docs" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40"/> 
+  </a>
 </p>
 
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20" height="20"> **Reach out to me:** ️
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20" height="20"> **Reach out to me:**  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ayoob-k-ibrahim" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="ayoob-k-ibrahim" /></a>
-<a href="mailto:ayoobkibrahim01@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="ayoobkibrahim01@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/ayoob-k-ibrahim" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ayoobkibrahim01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 
  
