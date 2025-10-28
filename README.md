@@ -36,7 +36,32 @@
 </p>
 
 ---
+<img src="https://readme-typing-svg.herokuapp.com?color=red&size=12&width=180&height=18&lines=A+little+more+about+me...;">
 
+```
+---
+- Name: Ayoob K Ibrahim
+  hosts: GitHub
+  become: true
+    - Operating Systems:
+        - Ubuntu 18.04, 20.04
+    - Scripting Languages:
+        - Bash
+        - Python  
+    - Source Code Management/Version Control:
+        - Git (GitHub)
+    - Continuous Integration/Continuous Deployment:
+        - Jenkins
+    - Containerization:
+        - Docker
+        - Kubernetes
+    - Security:
+        - SonarQube
+    - Project Management Tool:
+        - GitHub
+
+---
+```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20" height="20"> **Reach out to me:**  
 
 <p align="center">
