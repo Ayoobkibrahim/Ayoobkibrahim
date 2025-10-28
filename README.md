@@ -60,7 +60,6 @@
     - Project Management Tool:
         - GitHub
 
----
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20" height="20"> **Reach out to me:**  
 
