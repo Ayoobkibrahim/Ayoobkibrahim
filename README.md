@@ -11,15 +11,9 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="20"> **About Me:**
 - 👨🏻‍💻 Student at Brototype  
-- 💬 Ask me about **Flutter**
 
 ---
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayoobkibrahim&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
----
 
 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> **Languages & Tools:**
 
