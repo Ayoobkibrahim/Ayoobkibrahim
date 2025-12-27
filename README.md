@@ -1,13 +1,13 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=5F1885&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+AYOOB+KI🚀;" />
-</h1>
+</h1> 
 
 <!-- Right side image -->
 <div align="center">
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Popper">
-</div>
+</div> 
 
----
+
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="20"> **About Me:**
 - 👨🏻‍💻 Student at Brototype  
@@ -22,11 +22,15 @@
 <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Jenkins" width="50" height="50"/></a>
   <a href="https://helm.sh/" target="_blank"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="50" height="50"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
-
+  
   </br>
   <a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Linux" width="50" height="50"/></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Linux" width="50" height="50"/></a>
   <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Linux" width="50" height="50"/></a>
+
+  </br>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
   <a href="https://dart.dev/overview" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
   </a>
@@ -45,7 +49,6 @@
 ---
 - Name: Ayoob K Ibrahim
   hosts: GitHub
-  become: true
     - Operating Systems:
         - Ubuntu 18.04, 20.04
     - Scripting Languages:
@@ -62,8 +65,14 @@
         - SonarQube
     - Project Management Tool:
         - GitHub
+    - Monitoring Tools:
+        - Grafana
+        - Prometheus
+    - Logging Tools:
+        - Elk Stack
 
 ```
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20" height="20"> **Reach out to me:**  
 
 <p align="center">
@@ -74,7 +83,7 @@
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
  
 <img src="https://media.giphy.com/media/c8knYYZ5vzC8V6tpMI/giphy.gif" width="15" height="15"> **Github Stats:**
@@ -84,6 +93,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayoobkibrahim/Ayoobkibrahim/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ayoobkibrahim/Ayoobkibrahim/output/github-contribution-grid-snake.svg">
 </picture>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 </div>
 <br />
