@@ -26,7 +26,7 @@
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="50"/>
 
-<br><br>
+<br>
 
 <!-- Row 2 -->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50"/>
 
-<br><br>
+<br>
 
 <!-- Row 3 -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
