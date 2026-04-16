@@ -15,7 +15,7 @@
 ---
 
 
-<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> **Languages & Tools:**
+<!-- <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> **Languages & Tools:**
 <p align="center">
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
@@ -40,7 +40,7 @@
   <a href="https://firebase.google.com/docs" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40"/> 
   </a>
-</p>
+</p> -->
 
 ---
 <img src="https://readme-typing-svg.herokuapp.com?color=red&size=12&width=180&height=18&lines=A+little+more+about+me...;">
