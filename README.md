@@ -21,6 +21,7 @@
 
 <!-- Row 1 -->
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50"/>
+<img src="https://www.svgrepo.com/show/448266/aws.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
@@ -30,6 +31,8 @@
 
 <!-- Row 2 -->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50"/>
