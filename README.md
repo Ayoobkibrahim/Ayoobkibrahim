@@ -3,9 +3,9 @@
 </h1> 
 
 <!-- Right side image -->
-<div align="center">
+< <div align="center">
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Popper">
-</div> 
+</div>  
 
 
 
@@ -15,32 +15,34 @@
 ---
 
 
-<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> **Languages & Tools:**
-<p align="center">
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Jenkins" width="50" height="50"/></a>
-  <a href="https://helm.sh/" target="_blank"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="50" height="50"/></a>
-  
-  </br>
-  <a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Linux" width="50" height="50"/></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Linux" width="50" height="50"/></a>
-  <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
-  <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Linux" width="50" height="50"/></a>
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20"> **Languages & Tools:**
 
-  </br>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
-  <a href="https://dart.dev/overview" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.flutter.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/docs" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40"/> 
-  </a>
-</p>
+<div align="center">
+
+<!-- Row 1 -->
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="50"/>
+
+<br><br>
+
+<!-- Row 2 -->
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50"/>
+
+<br><br>
+
+<!-- Row 3 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="50"/>
+
+</div>
 
 ---
 <img src="https://readme-typing-svg.herokuapp.com?color=red&size=12&width=180&height=18&lines=A+little+more+about+me...;">
