@@ -3,7 +3,7 @@
 </h1> 
 
 <!-- Right side image -->
-< <div align="center">
+<div align="center">
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Popper">
 </div>  
 
