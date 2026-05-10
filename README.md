@@ -24,7 +24,7 @@
 <img src="https://www.svgrepo.com/show/448266/aws.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50"/>
 
@@ -41,6 +41,7 @@
 <br>
 
 <!-- Row 3 -->
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
