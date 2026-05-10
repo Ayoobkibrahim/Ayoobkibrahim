@@ -26,6 +26,7 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50"/>
 
 <br>
 
